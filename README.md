@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Vue.js, html 5, js, 
 - 🌱 I’m currently learning ... Vue js
 - 💞️ I’m looking to collaborate on ... Vue Js
-- 📫 How to reach me ... mohtashimiqbalbutt@GMAIL.COM
+- 📫 How to reach me ... mohtashimiqbalbutt@gmail.com
 
 <!---
 MohtashimIqbalButt/MohtashimIqbalButt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
